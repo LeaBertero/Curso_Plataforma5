@@ -10,6 +10,7 @@
     text-align: center;
     font-weight: 200;
     font-size: 3rem;
+    color: whitesmoke;
 }
 
 .losRebeldes{
@@ -64,6 +65,7 @@
     /* text-decoration: overline; */
     /* text-decoration:dotted; */
     text-decoration:underline;
+    color: whitesmoke;
 }
 
 .titulo-darth{
@@ -82,6 +84,10 @@
     margin-left: 5rem;
     background-color: red;
     text-shadow: 2px 5px 3px white;
+}
+
+.back{
+    background-image: url(../imagenes/space-1164579_1280.jpg);
 }
 
 .subtitulos_imperio{
@@ -133,6 +139,11 @@
     margin-left: 25rem;
 }
 
+.backbg{
+    background-color: blue;
+}
+
 .X-Wing{
     margin-left: 25rem;
+    /* background-color: blue; */
 }
