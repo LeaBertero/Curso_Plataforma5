@@ -1,0 +1,138 @@
+.LosMalos{
+    background-color: red;
+}
+
+.img-starWors{
+   margin-left: 25rem;
+}
+
+.h3-sub{
+    text-align: center;
+    font-weight: 200;
+    font-size: 3rem;
+}
+
+.losRebeldes{
+    background-color: blue;
+    /* margin-left: 30rem; */
+}
+
+.rebelde-1{
+    font-size: 4rem;
+    text-align: center;
+    list-style: none;
+}
+
+#DarthVader{
+    font-size: 4rem;
+    text-align: center;
+}
+
+#Luke{
+    font-style: italic;
+    font-size: 4rem;
+    text-align: center;
+    list-style: none;
+    text-shadow: 2px 5px 3px white;
+    list-style: none;
+}
+
+.soldados{
+    border: 1rem dashed black;
+    font-size: 4rem;
+    color: aliceblue;
+    letter-spacing: 1ex;
+}
+
+.apoyo{
+    text-align: center;
+    font-size: 3rem;
+    text-shadow: 2px 5px 3px whitesmoke;
+    list-style: none;
+}
+
+.Naves{
+    text-transform: uppercase; /*para poner los textos en mayusculas*/
+    text-align: center;
+    font-size: 4rem;
+    list-style: none;
+}
+
+.titulo-principal{
+    text-align: center;
+    font-size: 4rem;
+    /* text-decoration: overline; */
+    /* text-decoration:dotted; */
+    text-decoration:underline;
+}
+
+.titulo-darth{
+    list-style: none;
+}
+
+.imperio-titulo{
+    /* list-style: none; */
+    text-align: center;
+    font-size: 4rem;
+    border: 3px solid gray;
+    border-radius: 50%;
+    width: 80rem;
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 5rem;
+    background-color: red;
+    text-shadow: 2px 5px 3px white;
+}
+
+.subtitulos_imperio{
+    text-align: center;
+    padding-top: 1rem;
+    font-size: 4rem;
+    list-style: none;
+}
+
+.rebeldes{
+    font-size: 4rem;
+    font-weight: bolder;
+    text-align: center;
+    border: 1rem solid black;
+    background-color: red; 
+    text-shadow: 2px 5px 3px wheat;
+}
+
+.titulo-tanque{
+    font-size: 4rem;
+    list-style: none;
+    text-align: center;
+    padding: 2rem;
+    margin: 1rem;
+}
+
+.titulo-halcon{
+    list-style: none;
+}
+
+.Droides{
+    margin-left: 30rem;
+}
+
+
+.img-tanque{
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 20rem;
+}
+
+.droides-3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.halcon{
+    margin-left: 25rem;
+}
+
+.X-Wing{
+    margin-left: 25rem;
+}
